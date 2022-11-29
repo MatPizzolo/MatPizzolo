@@ -71,7 +71,7 @@
 
 <li>
 <a href="https://linkedin.com/in/mateo-pizzolo" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  mateo-pizzolo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  mateo%pizzolo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -94,6 +94,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
 Last Edited on: 29/11/2022
+
+Credits: [Abdul Khalid](https://github.com/0xabdulkhalid)
