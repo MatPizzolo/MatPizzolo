@@ -21,7 +21,7 @@
 - Learning C at Telefonica programming hub, 42. 
 - Worked at a great startup
 - Personal website [link](https://playful-queijadas-f8caa0.netlify.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1KmaNSLXsr8ux7K9K0UUcT4btGVIB4Wsx/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://drive.google.com/file/d/1KmaNSLXsr8ux7K9K0UUcT4btGVIB4Wsx/view?usp=sharing](https://drive.google.com/file/d/1mMkB3kr_ogGk8_D8zWABNHOir5J5UwEB/view))
 
 <br><br>
 
