@@ -21,7 +21,7 @@
 - Learning Software Development at 42, Madrid. 
 - Worked at a great startup
 - Personal website [link](http://www.mateopizzolo.com/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1mMkB3kr_ogGk8_D8zWABNHOir5J5UwEB/view)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1CltAOAZFugIEK-lxyetFUlxLLQAXHI8f/view?usp=share_link)
 
 <br><br>
 
