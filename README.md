@@ -60,6 +60,24 @@
 
 </p>
 
+
+<br>
+
+## <b> My 42 Journey</b>
+
+| 💻Project | 💯Score |
+|------|-------|
+|[**📚 Libft**](https://github.com/MatPizzolo/my-libft) | [![mpizzolo's 42 Libft Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/2930157)](https://github.com/JaeSeoKim/badge42) |
+| [**✍🏼 Ft_printf**](https://github.com/MatPizzolo/ft_printf) | [![mpizzolo's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/3014837)](https://github.com/JaeSeoKim/badge42) |
+| [**⏩ Get_next_line**](https://github.com/MatPizzolo/GNL) | [![mpizzolo's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/3014839)](https://github.com/JaeSeoKim/badge42) |
+| **🤖 Born2beroot** | [![mpizzolo's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/3029980)](https://github.com/JaeSeoKim/badge42) |
+| [**👾 So_long**](https://github.com/MatPizzolo/Solong) | [![mpizzolo's 42 so_long Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/3087090)](https://github.com/JaeSeoKim/badge42) |
+| [**🗜 Pipex**](https://github.com/MatPizzolo/Pipex) | [![mpizzolo's 42 pipex Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/3087092)](https://github.com/JaeSeoKim/badge42) |
+| [**🔢 Push_swap**](https://github.com/MatPizzolo/push_swap) | [![mpizzolo's 42 push_swap Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/3087093)](https://github.com/JaeSeoKim/badge42) |
+| **📝 Exam Rank 02** | [![mpizzolo's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/3088395)](https://github.com/JaeSeoKim/badge42) |
+
+
+
 <br>
 <br>
 
