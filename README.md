@@ -75,7 +75,7 @@
 | [**🗜 Pipex**](https://github.com/MatPizzolo/Pipex) | [![mpizzolo's 42 pipex Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/3087092)](https://github.com/JaeSeoKim/badge42) |
 | [**🔢 Push_swap**](https://github.com/MatPizzolo/push_swap) | [![mpizzolo's 42 push_swap Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/3087093)](https://github.com/JaeSeoKim/badge42) |
 | **📝 Exam Rank 02** | [![mpizzolo's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/3088395)](https://github.com/JaeSeoKim/badge42) |
-
+| [**🖥 Minishell**](https://github.com/MatPizzolo/minishell) | [![mpizzolo's 42 minishell Score](https://badge42.vercel.app/api/v2/clie22wmu001608mqli56z7zj/project/3109781)](https://github.com/JaeSeoKim/badge42) |
 
 
 <br>
