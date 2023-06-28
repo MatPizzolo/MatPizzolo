@@ -8,7 +8,6 @@
 <br>
 
 - Learning Software Development at 42, Madrid. 
-- A passionate Self-taught Front-end developer
 - Worked at a great startup (Blockchain Ticketing)
 - Personal website [link](http://www.mateopizzolo.com/)
 - This is [my resume](https://drive.google.com/file/d/1FiO63IWTp7uHdoRGNuUHjRsbYfTreWIo/view?usp=share_link) 
@@ -64,7 +63,7 @@
 
 
 <br>
-
+<!--
 ## <b> My 42 Journey</b>
 
 | 💻Project | 💯Score |
@@ -81,7 +80,7 @@
 
 
 <br>
-<br>
+<br> -->
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
