@@ -15,6 +15,34 @@
 <br><br>
 
 
+## <p align="center">🚀 My 42 Odyssey 🛸</p>
+
+<div align="center">
+  <img src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid-Clusters.jpg" alt="My 42 Journey Banner" width="350" height="200">
+
+<!-- Step into my world of 42 projects, where each line of code is a stepping stone towards mastery: -->
+
+| 🌟 Project Showcase |
+|:-------------------:|
+| [**📚 Libft**](https://github.com/MatPizzolo/my-libft) - Crafting the foundation of C |
+| [**✍🏼 Ft_printf**](https://github.com/MatPizzolo/ft_printf) - Sometimes write() needs a little magic |
+| [**⏩ Get_next_line**](https://github.com/MatPizzolo/GNL) - Navigating text streams with grace |
+| [**🤖 Born2beroot**](https://github.com/MatPizzolo/born2beroot) - Cultivating Virtual Machines mastery |
+| [**👾 So_long**](https://github.com/MatPizzolo/Solong) - 2D game  |
+| [**🗜 Pipex**](https://github.com/MatPizzolo/Pipex) - Piping like a maestro |
+| [**🔢 Push_swap**](https://github.com/MatPizzolo/push_swap) - Sorting algorithms |
+| [**🖥 Minishell**](https://github.com/MatPizzolo/minishell) - My miniature shell |
+| [**🍴 Philosophers**](https://github.com/MatPizzolo/philosophers) - Navigating threads of thoughts |
+| [**🕹️ Cub3D**](https://github.com/MatPizzolo/cub3d) - 3D maze exploration in C |
+| [**🧱 C++ Module 1**](https://github.com/MatPizzolo/cpp-modules-0-4) - Unveiling the C++ magic - Part 1 |
+| [**🧱 C++ Module 2**](https://github.com/MatPizzolo/cpp-modules-5-9) - Unveiling the C++ magic - Part 2 |
+
+</div>
+
+
+
+<br>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
@@ -60,27 +88,6 @@
 
 
 </p>
-
-
-<br>
-
-## <b> My 42 Journey</b>
-
-| 💻Projects |
-|------|
-|[**📚 Libft**](https://github.com/MatPizzolo/my-libft) |
-| [**✍🏼 Ft_printf**](https://github.com/MatPizzolo/ft_printf) |
-| [**⏩ Get_next_line**](https://github.com/MatPizzolo/GNL) |
-| **🤖 Born2beroot** |
-| [**👾 So_long**](https://github.com/MatPizzolo/Solong) |
-| [**🗜 Pipex**](https://github.com/MatPizzolo/Pipex) |
-| [**🔢 Push_swap**](https://github.com/MatPizzolo/push_swap)  |
-| [**🖥 Minishell**](https://github.com/MatPizzolo/minishell) |
-| [**🍴 Philosophers**](https://github.com/MatPizzolo/philosophers) |
-| [**🕹️ Cub3D**](https://github.com/MatPizzolo/cub3d) |
-| [**🧱 C++ Module 1**](https://github.com/MatPizzolo/cpp-modules-0-4) |
-| [**🧱 C++ Module 2**](https://github.com/MatPizzolo/cpp-modules-5-9) |
-
 
 
 <br>
