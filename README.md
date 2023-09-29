@@ -36,6 +36,7 @@
 | [**🕹️ Cub3D**](https://github.com/MatPizzolo/cub3d) - 3D maze exploration in C |
 | [**🧱 C++ Module 1**](https://github.com/MatPizzolo/cpp-modules-0-4) - Unveiling the C++ magic - Part 1 |
 | [**🧱 C++ Module 2**](https://github.com/MatPizzolo/cpp-modules-5-9) - Unveiling the C++ magic - Part 2 |
+| [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) - Recreating an Internat Relay Chat|
 
 </div>
 
