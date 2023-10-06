@@ -28,7 +28,7 @@
 | [**✍🏼 Ft_printf**](https://github.com/MatPizzolo/ft_printf) - Sometimes write() needs a little magic |
 | [**⏩ Get_next_line**](https://github.com/MatPizzolo/GNL) - Navigating text streams with grace |
 | [**🤖 Born2beroot**](https://github.com/MatPizzolo/born2beroot) - Cultivating Virtual Machines mastery |
-| [**👾 So_long**](https://github.com/MatPizzolo/Solong) - 2D game  |
+| [**👾 So_long**](https://github.com/MatPizzolo/Solong) - A C 2D game  |
 | [**🗜 Pipex**](https://github.com/MatPizzolo/Pipex) - Piping like a maestro |
 | [**🔢 Push_swap**](https://github.com/MatPizzolo/push_swap) - Sorting algorithms |
 | [**🖥 Minishell**](https://github.com/MatPizzolo/minishell) - My miniature shell |
