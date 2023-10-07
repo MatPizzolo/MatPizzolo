@@ -8,34 +8,33 @@
 <br>
 
 - Learning Software Development at 42, Madrid. 
-- Worked at a great startup as a Front End Developer (Blockchain Ticketing)
 - Personal website [link](http://www.mateopizzolo.com/)
 - This is [my resume](https://drive.google.com/file/d/1FiO63IWTp7uHdoRGNuUHjRsbYfTreWIo/view?usp=share_link) 
 
 <br><br>
 
 
-## <p align="center">🚀 My 42 Odyssey 🛸</p>
+## <p align="center">My 42 Journey🚀</p>
 
 <div align="center">
   <img src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid-Clusters.jpg" alt="My 42 Journey Banner" width="350" height="200">
 
 <!-- Step into my world of 42 projects, where each line of code is a stepping stone towards mastery: -->
 
-| 🌟 Project Showcase |
+| 🌟 Projects |
 |:-------------------:|
-| [**📚 Libft**](https://github.com/MatPizzolo/my-libft) - Crafting the foundation of C |
-| [**✍🏼 Ft_printf**](https://github.com/MatPizzolo/ft_printf) - Sometimes write() needs a little magic |
-| [**⏩ Get_next_line**](https://github.com/MatPizzolo/GNL) - Navigating text streams with grace |
-| [**🤖 Born2beroot**](https://github.com/MatPizzolo/born2beroot) - Cultivating Virtual Machines mastery |
-| [**👾 So_long**](https://github.com/MatPizzolo/Solong) - A C 2D game  |
-| [**🗜 Pipex**](https://github.com/MatPizzolo/Pipex) - Piping like a maestro |
-| [**🔢 Push_swap**](https://github.com/MatPizzolo/push_swap) - Sorting algorithms |
-| [**🖥 Minishell**](https://github.com/MatPizzolo/minishell) - My miniature shell |
-| [**🍴 Philosophers**](https://github.com/MatPizzolo/philosophers) - Navigating threads of thoughts |
-| [**🕹️ Cub3D**](https://github.com/MatPizzolo/cub3d) - 3D maze exploration in C |
-| [**🧱 C++ Module 1**](https://github.com/MatPizzolo/cpp-modules-0-4) - Unveiling the C++ magic - Part 1 |
-| [**🧱 C++ Module 2**](https://github.com/MatPizzolo/cpp-modules-5-9) - Unveiling the C++ magic - Part 2 |
+| [**📚 Libft**](https://github.com/MatPizzolo/my-libft) - A recreation of the C standard library, libft.h. |
+| [**✍🏼 Ft_printf**](https://github.com/MatPizzolo/ft_printf) - A recreation of the printf() function in C |
+| [**⏩ Get_next_line**](https://github.com/MatPizzolo/GNL) - A C program for reading and outputting file contents, handling various buffer sizes efficiently |
+| [**🤖 Born2beroot**](https://github.com/MatPizzolo/born2beroot) - An exploration of virtual machines and system administration |
+| [**👾 So_long**](https://github.com/MatPizzolo/Solong) -  A 2D game built in C using the 42 minilibx library  |
+| [**🗜 Pipex**](https://github.com/MatPizzolo/Pipex) - Recreation of a bash-like one line terminal with pipe() and execve() for process handling. |
+| [**🔢 Push_swap**](https://github.com/MatPizzolo/push_swap) -  A collection of sorting algorithms implemented in C. |
+| [**🖥 Minishell**](https://github.com/MatPizzolo/minishell) - A Bash likewise implementation in C |
+| [**🍴 Philosophers**](https://github.com/MatPizzolo/philosophers) -  Solving the dining philosophers problem in C to learn about threads and mutexes |
+| [**🕹️ Cub3D**](https://github.com/MatPizzolo/cub3d) - A 3D game developed in C with the 42 minilibx library. |
+| [**🧱 C++ Module 1**](https://github.com/MatPizzolo/cpp-modules-0-4) -  Learning core C++ concepts like pointers, references, and polymorphism. |
+| [**🧱 C++ Module 2**](https://github.com/MatPizzolo/cpp-modules-5-9) - Exploring advanced C++ topics, including templates, containers, and iterators |
 | [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) - Recreating an Internat Relay Chat|
 
 </div>
