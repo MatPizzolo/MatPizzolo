@@ -36,6 +36,7 @@
 | [**🧱 C++ Module 1**](https://github.com/MatPizzolo/cpp-modules-0-4) -  Learning core C++ concepts like pointers, references, and polymorphism. |
 | [**🧱 C++ Module 2**](https://github.com/MatPizzolo/cpp-modules-5-9) - Exploring advanced C++ topics, including templates, containers, and iterators |
 | [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) - Recreating an Internat Relay Chat|
+| [**💽 Inception**](https://github.com/MatPizzolo/Inception) - Learning about Docker Compose and virtualization |
 
 </div>
 
