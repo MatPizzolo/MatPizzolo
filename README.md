@@ -9,7 +9,7 @@
 
 - Learning Software Development at 42, Madrid. 
 - Portfolio website [link](http://www.mateopizzolo.com/)
-- This is [my resume](https://drive.google.com/file/d/1FiO63IWTp7uHdoRGNuUHjRsbYfTreWIo/view?usp=share_link) 
+- This is [my resume](https://drive.google.com/file/d/1HVazEO8EWUF_yjn4yyeDT1J3t45vBA03/view?usp=sharing) 
 
 <br><br>
 
