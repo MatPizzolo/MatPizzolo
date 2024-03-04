@@ -7,7 +7,7 @@
 
 <br>
 
-- Learning Software Development at 42, Madrid. 
+- Learned Software Development at 42, Madrid. 
 - Portfolio website [link](http://www.mateopizzolo.com/)
 - This is [my resume](https://drive.google.com/file/d/1HVazEO8EWUF_yjn4yyeDT1J3t45vBA03/view?usp=sharing)
 - My [42 Resume](https://cv.42.fr/mpizzolo)
@@ -93,6 +93,7 @@
 | [**🧱 C++ Module 2**](https://github.com/MatPizzolo/cpp-modules-5-9) - Exploring advanced C++ topics, including templates, containers, and iterators |
 | [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) - Recreating an Internat Relay Chat|
 | [**💽 Inception**](https://github.com/MatPizzolo/Inception) - Learning about Docker Compose and virtualization |
+| [**🏓 Trascendence**](https://github.com/MatPizzolo/ft_transcendence) - Pong webapp - 42 Common Core Final Project |
 
 </div>
 
