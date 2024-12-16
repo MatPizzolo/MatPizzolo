@@ -94,6 +94,11 @@
 | [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) - Recreating an Internat Relay Chat|
 | [**💽 Inception**](https://github.com/MatPizzolo/Inception) - Learning about Docker Compose and virtualization |
 | [**🏓 Trascendence**](https://github.com/MatPizzolo/ft_transcendence) - Pong webapp - 42 Common Core Final Project |
+| [**🏓 Ft_Ping**](https://github.com/MatPizzolo/ft_ping) - Re Creating the Ping command |
+| [**🏓 Ft_Ping**](https://github.com/MatPizzolo/Tokenizer) - Creating my own ERC-20 Token |
+| [**🏓 Ft_Ping**](https://github.com/MatPizzolo/ft_ls) - Re Creating the Ls command |
+| [**🏓 Ft_Ping**](https://github.com/MatPizzolo/ft_malloc) - Re Creating the Malloc command |
+
 
 </div>
 
