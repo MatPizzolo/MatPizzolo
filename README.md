@@ -7,10 +7,12 @@
 
 <br>
 
-- Learned Software Development at 42, Madrid. 
-- Portfolio website [link](http://www.mateopizzolo.com/)
+- Learned Software Development at 42, Madrid.
 - This is [my resume](https://drive.google.com/file/d/1vdIIKPQrwO2fUzHXMsg-hMPJQmFO4c55/view?usp=sharing)
 - My [42 Resume](https://cv.42.fr/mpizzolo)
+<!---
+- Portfolio website [link](http://www.mateopizzolo.com/)
+-->
 
 <br><br>
 
@@ -71,7 +73,8 @@
 <br>
 
 
-## <p align="center">My 42 Journey🚀</p>
+## <p align="center">My 42 Projects Journey🚀</p>
+### <p align="center">In Chronological Order</p>
 
 <div align="center">
   <img src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid-Clusters.jpg" alt="My 42 Journey Banner" width="350" height="200">
