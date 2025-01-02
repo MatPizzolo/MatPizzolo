@@ -10,7 +10,6 @@
 
 - Learned Software Development at 42, Madrid.
 - This is [my resume](https://drive.google.com/file/d/1vdIIKPQrwO2fUzHXMsg-hMPJQmFO4c55/view?usp=sharing)
-- My [42 Resume](https://cv.42.fr/mpizzolo)
 <!---
 - Portfolio website [link](http://www.mateopizzolo.com/)
 -->
