@@ -95,7 +95,7 @@
 | [**🕹️ Cub3D**](https://github.com/MatPizzolo/cub3d) - A 3D game developed in C with the 42 minilibx library. |
 | [**🧱 C++ Module 1**](https://github.com/MatPizzolo/cpp-modules-0-4) -  Learning core C++ concepts like pointers, references, and polymorphism. |
 | [**🧱 C++ Module 2**](https://github.com/MatPizzolo/cpp-modules-5-9) - Exploring advanced C++ topics, including templates, containers, and iterators |
-| [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) - Recreating an Internat Relay Chat|
+| [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) - Recreating a Server for Internat Relay Chat in C++|
 | [**💽 Inception**](https://github.com/MatPizzolo/Inception) - Learning about Docker Compose and virtualization |
 | [**🏓 Trascendence**](https://github.com/MatPizzolo/ft_transcendence) - Pong webapp - 42 Common Core Final Project |
 | [**📟 Ft_Ping**](https://github.com/MatPizzolo/ft_ping) - Re Creating the Ping command |
