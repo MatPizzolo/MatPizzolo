@@ -96,13 +96,13 @@
 | [**🧱 C++ Module 1**](https://github.com/MatPizzolo/cpp-modules-0-4) -  Learning core C++ concepts like pointers, references, and polymorphism. |
 | [**🧱 C++ Module 2**](https://github.com/MatPizzolo/cpp-modules-5-9) - Exploring advanced C++ topics, including templates, containers, and iterators |
 | [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) - Recreating a Server for Internat Relay Chat in C++|
-| [**💽 Inception**](https://github.com/MatPizzolo/Inception) - Learning about Docker Compose and virtualization |
-| [**🏓 Trascendence**](https://github.com/MatPizzolo/ft_transcendence) - Pong webapp - 42 Common Core Final Project |
+| [**💽 Inception**](https://github.com/MatPizzolo/Inception) - A Dockerized Modular System for Efficient WordPress Deployment with Docker-Compose and a LEMP Stack Configuration |
+| [**🏓 Trascendence**](https://github.com/MatPizzolo/ft_transcendence) -  A webapp with real-time matches or AI for solo play. (42 Common Core Final Project) |
 | [**📟 Ft_Ping**](https://github.com/MatPizzolo/ft_ping) - Re Creating the Ping command |
 | [**⛓️ Tokenizer**](https://github.com/MatPizzolo/Tokenizer) - Creating my own ERC-20 Token |
 | [**📜 Ft_Ls**](https://github.com/MatPizzolo/ft_ls) - Re Creating the Ls command |
 | [**🏓 Ft_Malloc**](https://github.com/MatPizzolo/ft_malloc) - Re Creating the Malloc command |
-
+| [**🖼️ Camagru**](https://github.com/MatPizzolo/Camagru) - An webapp that enables users to create and share photo montages |
 
 </div>
 
