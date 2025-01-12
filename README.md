@@ -1,28 +1,30 @@
 
-<h1 align="center"><b>Hi , I'm Mateo Pizzolo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Mateo Pizzolo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/MatPizzolo/readmes/blob/main/readme.es.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MatPizzolo/readmes/blob/main/readme.en.md)
 
-## 📖 **About me**
+
+## 📖 **Sobre mí**
 
 
 <br>
 
-- Learned Software Development at 42, Madrid.
-- This is [my resume](https://drive.google.com/file/d/10ZBIv5_esZdQsVR-FRQQbUgOHymGcvVk/view?usp=sharing)
+- Aprendí desarrollo de software en 42, Madrid.
+- Este es [mi curriculum](https://drive.google.com/file/d/1XAlsKB88-UvtX-eHDdb5noE7HxSTtQMt/view?usp=sharing)
 <!---
+- My [42 Resume](https://cv.42.fr/mpizzolo)
 - Portfolio website [link](http://www.mateopizzolo.com/)
 -->
 
 <br><br>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 <br>
 
 <p align="center">
 
-- **Languages**:
+- **Lenguajes**:
     
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -32,7 +34,7 @@
 
 <br>   
     
-- **Front-End Development**:
+- **Desarrollo Front-End**:
 
    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
    ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,7 +49,7 @@
 
 <br>
 
-- **Back-End Development**:
+- **Desarrollo Back-End**:
 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,7 +60,7 @@
 
 <br>
 
-- **Softwares and Tools**:
+- **Software y Herramientas**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -73,36 +75,56 @@
 <br>
 
 
-## <p align="center">My 42 Projects Journey🚀</p>
-### <p align="center">In Chronological Order</p>
+## <p align="center">Mis Proyectos Web</p>
+
+| Título                | Descripción                                                                 | Stack | Tech Stack                        |
+|-----------------------|-----------------------------------------------------------------------------|-------|-----------------------------------|
+| [Camagru](https://github.com/MatPizzolo/Camagru)  | Una aplicación que permite subir imágenes, editarlas y compartirlas.                     | FS    | Docker, MariaDB, WordPress, Nginx |
+| [Trascendence](https://github.com/MatPizzolo/ft_transcendence) | Una aplicación web donde los usuarios pueden jugar Pong online, crear torneos, agregar amigos. | FS    | Docker, JavaScript, Bootstrap, Django |
+| [Amazon Clone](https://github.com/MatPizzolo/amazon-clone) | Un clon de Amazon con autenticación de usuarios y carrito de productos.                  | FS    | Docker, MongoDB, NestJS, React, Redux, Material-UI |
+| [Simply Recipes](https://github.com/MatPizzolo/Simply-Recipes) | Una aplicación de búsqueda de recetas que destaca la velocidad de Gatsby.                | FE    | JavaScript, React, Gatsby         |
+| [Netflix Clone](https://github.com/MatPizzolo/netflix-clone) | Un clon de Netflix hecho con React.                                                     | FE    | JavaScript, React                 |
+| [Nio](https://github.com/MatPizzolo/Nio-Resto)          | Una landing page para un restaurante.                                                  | FE    | JS, React, Material-UI    |
+| [Tic Tac Toe](https://github.com/MatPizzolo/Tic-Tac-Toe) | Un simple juego de Tic Tac Toe online para 2 jugadores.                                 | FE    | JS                         |
+
+
+
+
+
+<br>
+
+## <p align="center">Mi trayectorio en proyectos de 42🚀</p>
+### <p align="center">En orden cronológico</p>
 
 <div align="center">
   <img src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid-Clusters.jpg" alt="My 42 Journey Banner" width="350" height="200">
 
 <!-- Step into my world of 42 projects, where each line of code is a stepping stone towards mastery: -->
 
-| 🌟 Projects |
+| 🌟 Proyectos |
 |:-------------------:|
-| [**📚 Libft**](https://github.com/MatPizzolo/my-libft) - A recreation of the C standard library, libft.h. |
-| [**✍🏼 Ft_printf**](https://github.com/MatPizzolo/ft_printf) - A recreation of the printf() function in C |
-| [**⏩ Get_next_line**](https://github.com/MatPizzolo/GNL) - A C program for reading and outputting file contents, handling various buffer sizes efficiently |
-| [**🤖 Born2beroot**](https://github.com/MatPizzolo/born2beroot) - An exploration of virtual machines and system administration |
-| [**👾 So_long**](https://github.com/MatPizzolo/Solong) -  A 2D game built in C using the 42 minilibx library  |
-| [**🗜 Pipex**](https://github.com/MatPizzolo/Pipex) - Recreation of a bash-like one line terminal with pipe() and execve() for process handling. |
-| [**🔢 Push_swap**](https://github.com/MatPizzolo/push_swap) -  A collection of sorting algorithms implemented in C. |
-| [**🖥 Minishell**](https://github.com/MatPizzolo/minishell) - A Bash likewise implementation in C |
-| [**🍴 Philosophers**](https://github.com/MatPizzolo/philosophers) -  Solving the dining philosophers problem in C to learn about threads and mutexes |
-| [**🕹️ Cub3D**](https://github.com/MatPizzolo/cub3d) - A 3D game developed in C with the 42 minilibx library. |
-| [**🧱 C++ Module 1**](https://github.com/MatPizzolo/cpp-modules-0-4) -  Learning core C++ concepts like pointers, references, and polymorphism. |
-| [**🧱 C++ Module 2**](https://github.com/MatPizzolo/cpp-modules-5-9) - Exploring advanced C++ topics, including templates, containers, and iterators |
-| [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) - Recreating a Server for Internat Relay Chat in C++|
-| [**💽 Inception**](https://github.com/MatPizzolo/Inception) - A Dockerized Modular System for Efficient WordPress Deployment with Docker-Compose and a LEMP Stack Configuration |
-| [**🏓 Trascendence**](https://github.com/MatPizzolo/ft_transcendence) -  A webapp with real-time matches or AI for solo play. (42 Common Core Final Project) |
-| [**📟 Ft_Ping**](https://github.com/MatPizzolo/ft_ping) - Re Creating the Ping command |
-| [**⛓️ Tokenizer**](https://github.com/MatPizzolo/Tokenizer) - Creating my own ERC-20 Token |
-| [**📜 Ft_Ls**](https://github.com/MatPizzolo/ft_ls) - Re Creating the Ls command |
-| [**🏓 Ft_Malloc**](https://github.com/MatPizzolo/ft_malloc) - Re Creating the Malloc command |
-| [**🖼️ Camagru**](https://github.com/MatPizzolo/Camagru) - An webapp that enables users to create and share photo montages |
+| [**📚 Libft**](https://github.com/MatPizzolo/my-libft) - Una recreación de la biblioteca estándar de C, libft.h |
+| [**✍🏼 Ft_printf**](https://github.com/MatPizzolo/ft_printf) - Una recreación de la función printf() en C |
+| [**⏩ Get_next_line**](https://github.com/MatPizzolo/GNL) - Un programa en C para leer y mostrar el contenido de archivos, manejando varios tamaños de buffer de manera eficiente |
+| [**🤖 Born2beroot**](https://github.com/MatPizzolo/born2beroot) - Una exploración de máquinas virtuales y administración de sistemas |
+| [**👾 So_long**](https://github.com/MatPizzolo/Solong) -  Un juego 2D construido en C usando la biblioteca minilibx de 42  |
+| [**🗜 Pipex**](https://github.com/MatPizzolo/Pipex) - Recreación de un terminal similar a bash con pipe() y execve() para manejo de procesos |
+| [**🔢 Push_swap**](https://github.com/MatPizzolo/push_swap) -  Una colección de algoritmos de ordenamiento implementados en C. |
+| [**🖥 Minishell**](https://github.com/MatPizzolo/minishell) - Una implementación similar a Bash en C |
+| [**🍴 Philosophers**](https://github.com/MatPizzolo/philosophers) -  Resolviendo el problema de los filósofos comensales en C para aprender sobre hilos y mutexes |
+| [**🕹️ Cub3D**](https://github.com/MatPizzolo/cub3d) - Un juego 3D desarrollado en C con la biblioteca minilibx de 42 |
+| [**🧱 C++ Module 1**](https://github.com/MatPizzolo/cpp-modules-0-4) -  Aprendiendo conceptos básicos de C++ como punteros, referencias y polimorfismo |
+| [**🧱 C++ Module 2**](https://github.com/MatPizzolo/cpp-modules-5-9) -  Explorando temas avanzados de C++, incluyendo plantillas, contenedores e iteradores |
+| [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) - Desarrollo de un Servidor de Internet Relay Chat en C++ |
+| [**💽 Inception**](https://github.com/MatPizzolo/Inception) - Un sistema modular dockerizado para el despliegue eficiente de WordPress, gestionado con Docker-Compose y una configuración LEMP Stack |
+| [**🏓 Trascendence**](https://github.com/MatPizzolo/ft_transcendence) - Una webapp con partiddas en tiempo real o contra una AI (42 Common Core Proyecto Final) |
+| [**📟 Ft_Ping**](https://github.com/MatPizzolo/ft_ping) - Re Creadndo el Comando Ping |
+| [**⛓️ Tokenizer**](https://github.com/MatPizzolo/Tokenizer) - Mi primer token ERC-20 |
+| [**📜 Ft_Ls**](https://github.com/MatPizzolo/ft_ls) - Re Creando el Comando ls() |
+| [**🏓 Ft_Malloc**](https://github.com/MatPizzolo/ft_malloc) - Re Creando la funcion Malloc() |
+| [**🖼️ Camagru**](https://github.com/MatPizzolo/Camagru) - Un app que permite usarios crear y compartir foto montajes |
+
+
 
 </div>
 
@@ -112,7 +134,7 @@
 
 <br> 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Conectemos..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
