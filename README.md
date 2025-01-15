@@ -75,21 +75,36 @@
 
 <br>
 
+## <p align="center">Portfolio de Desarrollo Web</p>
 
-## <p align="center">Mis Proyectos Web</p>
+### Proyectos Destacados
 
-| Título                | Descripción                                                                 | Stack | Tech Stack                        |
-|-----------------------|-----------------------------------------------------------------------------|-------|-----------------------------------|
-| [Camagru](https://github.com/MatPizzolo/Camagru)  | Una aplicación que permite subir imágenes, editarlas y compartirlas.                     | FS    | Docker, MariaDB, WordPress, Nginx |
-| [Trascendence](https://github.com/MatPizzolo/ft_transcendence) | Una aplicación web donde los usuarios pueden jugar Pong online, crear torneos, agregar amigos. | FS    | Docker, JavaScript, Bootstrap, Django |
-| [Amazon Clone](https://github.com/MatPizzolo/amazon-clone) | Un clon de Amazon con autenticación de usuarios y carrito de productos.                  | FS    | Docker, MongoDB, NestJS, React, Redux, Material-UI |
-| [Simply Recipes](https://github.com/MatPizzolo/Simply-Recipes) | Una aplicación de búsqueda de recetas que destaca la velocidad de Gatsby.                | FE    | JS, React, Gatsby         |
-| [Netflix Clone](https://github.com/MatPizzolo/netflix-clone) | Un clon de Netflix.                                                     | FE    | JS, React                 |
-| [Nio](https://github.com/MatPizzolo/Nio-Resto)          | Una landing para un restaurante.                                                  | FE    | JS, React, Material-UI    |
-| [Tic Tac Toe](https://github.com/MatPizzolo/Tic-Tac-Toe) | Un simple juego de Tic Tac Toe online para 2 jugadores.                                 | FE    | JS                         |
+#### 🎮 Trascendence
+Una plataforma para jugar al Pong online.
+- **Características destacadas:** Torneos y juegos en tiempo real o contra una IA, sistema de amigos, chat integrado
+- **Tecnologías:** Docker, Postgres, Django, Python, JavaScript, Bootstrap
+- **More:** [Repositorio](https://github.com/MatPizzolo/ft_transcendence)
 
+#### 📸 Camagru
+Plataforma social de edición y compartición de posteos
+- **Características destacadas:** Compartir fotos, editor de fotos integrado, comentarios, sistema de likes
+- **Tecnologías:** Docker, MariaDB, PHP, JavaScript, TailwindCSS
+- **More:** [Repositorio](https://github.com/MatPizzolo/Camagru)
 
+#### 🛒 Amazon Clone
+Réplica funcional del gigante del e-commerce
+- **Características destacadas:** Autenticación completa, carrito de compras, pasarela de pagos
+- **Stack MERN:** MongoDB, Express, React, Node.js, Redux
+- **More:** [Repositorio](https://github.com/MatPizzolo/amazon-clone)
 
+### Otros Proyectos
+
+| Proyecto | Descripción | Stack | Demo |
+|----------|-------------|-------|------|
+| [Simply Recipes](https://github.com/MatPizzolo/Simply-Recipes) | Buscador de recetas optimizado con Gatsby | React, Gatsby | [Demo](link) |
+| [Netflix Clone](https://github.com/MatPizzolo/netflix-clone) | Interfaz de Netflix con catálogo dinámico | React | [Demo](link) |
+| [Nio Restaurant](https://github.com/MatPizzolo/Nio-Resto) | Landing page moderna para restaurante | React, Material-UI | [Demo](link) |
+| [Tic Tac Toe](https://github.com/MatPizzolo/Tic-Tac-Toe) | Juego multijugador online | JavaScript | [Demo](link) |
 
 
 <br>
@@ -135,7 +150,7 @@
 
 <br> 
 
-## <b> Conectemos..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## 📫 Contacto
 <br>
 <div align='left'>
 
