@@ -9,6 +9,7 @@
 
 <br>
 
+- Trabaje un año como Full Stack Developer en Menta Tickets.
 - Aprendí desarrollo de software en 42, Madrid.
 - Este es [mi curriculum](https://drive.google.com/file/d/1XAlsKB88-UvtX-eHDdb5noE7HxSTtQMt/view?usp=sharing)
 <!---
