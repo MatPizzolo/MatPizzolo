@@ -101,10 +101,10 @@ Réplica funcional del gigante del e-commerce
 
 | Proyecto | Descripción | Stack | Demo |
 |----------|-------------|-------|------|
-| [Simply Recipes](https://github.com/MatPizzolo/Simply-Recipes) | Buscador de recetas optimizado con Gatsby | React, Gatsby | [Demo](link) |
-| [Netflix Clone](https://github.com/MatPizzolo/netflix-clone) | Interfaz de Netflix con catálogo dinámico | React | [Demo](link) |
-| [Nio Restaurant](https://github.com/MatPizzolo/Nio-Resto) | Landing page moderna para restaurante | React, Material-UI | [Demo](link) |
-| [Tic Tac Toe](https://github.com/MatPizzolo/Tic-Tac-Toe) | Juego multijugador online | JavaScript | [Demo](link) |
+| [Simply Recipes](https://github.com/MatPizzolo/Simply-Recipes) | Buscador de recetas optimizado con Gatsby | React, Gatsby | [Demo](https://mateopizzolo-simple-recipes.netlify.app/) |
+| [Netflix Clone](https://github.com/MatPizzolo/netflix-clone) | Interfaz de Netflix con catálogo dinámico | React | [Demo](https://netflix-clone-mp.netlify.app/) |
+| [Nio Restaurant](https://github.com/MatPizzolo/Nio-Resto) | Landing page moderna para restaurante | React, Material-UI | [Demo](https://peppy-lollipop-508c19.netlify.app/) |
+| [Tic Tac Toe](https://github.com/MatPizzolo/Tic-Tac-Toe) | Juego multijugador online | JavaScript | [Demo](https://mp-tictactoe.netlify.app/) |
 
 
 <br>
