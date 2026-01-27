@@ -7,27 +7,26 @@
 
 <p align="center">
   <b>Machine Learning Operations (MLOps) Engineer</b><br>
-  Specializing in building robust, automated pipelines using Python, Docker, and Apache Airflow.
 </p>
 
 ## 📖 **About Me**
-- 🤖 **ML Focus:** I specialize in bridging the gap between model development and production-grade deployment[cite: 6, 7].
-- 🏗️ **Engineering Foundation:** I bring a rigorous approach to software architecture rooted in **Systems Programming (C/C++)** and **Full-Stack Development** within the FinTech and Crypto industries[cite: 8, 9].
-- 🎓 **Education:** Currently specializing in Machine Learning at **AnyoneAI**, with a solid foundation from **42 Madrid** and **UADE**[cite: 46, 44].
+- 🤖 **ML Focus:** I specialize in bridging the gap between model development and production-grade deployment.
+- 🏗️ **Engineering Foundation:** I bring a rigorous approach to software architecture rooted in **Systems Programming (C/C++)** and **Full-Stack Development** within the FinTech and Crypto industries.
+- 🎓 **Education:** Currently specializing in Machine Learning at **AnyoneAI**, with a solid foundation from **42 Madrid** and **UADE**.
 - 🏄‍♂️ **Outside of Code:** Intermediate rock drummer and surfer.
 - My Resume: [Resume](https://drive.google.com/file/d/1XAlsKB88-UvtX-eHDdb5noE7HxSTtQMt/view?usp=sharing)
 
 ## 🛠 **Technical Stack**
 
 ### **Machine Learning & MLOps**
-- **Core:** Python, SQL, PyTorch, Scikit-learn, Pandas[cite: 10, 41, 42].
-- **Orchestration:** Apache Airflow (DAGs), ETL/ELT Pipelines[cite: 42].
-- **Infrastructure:** Docker, Linux/Bash, Git/GitHub, REST APIs[cite: 42].
+- **Core:** Python, SQL, PyTorch, Scikit-learn, Pandas.
+- **Orchestration:** Apache Airflow (DAGs), ETL/ELT Pipelines.
+- **Infrastructure:** Docker, Linux/Bash, Git/GitHub, REST APIs.
 
 ### **Full-Stack Engineering**
-- **Languages:** C, C++, TypeScript, JavaScript[cite: 41, 16].
-- **Front-End:** Next.js, React, Tailwind CSS, Material UI[cite: 16, 17, 24].
-- **Back-End:** Node.js, Django, PostgreSQL, MongoDB[cite: 24, 35, 42].
+- **Languages:** C, C++, TypeScript, JavaScript.
+- **Front-End:** Next.js, React, Tailwind CSS, Material UI.
+- **Back-End:** Node.js, Django, PostgreSQL, MongoDB.
 
 ## 🚀 **Featured Machine Learning Projects (AnyoneAI)**
 
@@ -52,13 +51,13 @@
 ## 🏛️ **Professional Experience & Systems Engineering**
 
 ### **Full-Stack Developer | Chipz**
-- **Architected** and deployed high-performance web applications using **Next.js and TypeScript**[cite: 16].
-- **Containerized** applications with **Docker** for scalable cloud infrastructure[cite: 19].
+- **Architected** and deployed high-performance web applications using **Next.js and TypeScript**.
+- **Containerized** applications with **Docker** for scalable cloud infrastructure.
 
 ### **Systems Programming | 42 Madrid**
-- **Trascendence:** SPA with **Django** and WebSockets featuring an AI opponent[cite: 35].
-- **Irc:** Built an **IRC server** in **C++98** focusing on socket interactions[cite: 37].
-- **MiniShell:** Developed a **Bash-like shell** in **C** replicating core terminal functionalities[cite: 39].
+- **Trascendence:** SPA with **Django** and WebSockets featuring an AI opponent.
+- **Irc:** Built an **IRC server** in **C++98** focusing on socket interactions.
+- **MiniShell:** Developed a **Bash-like shell** in **C** replicating core terminal functionalities.
 
 ---
 
@@ -77,13 +76,13 @@
 | [**👾 So_long**](https://github.com/MatPizzolo/Solong) | 2D Game in C (minilibx) |
 | [**🗜 Pipex**](https://github.com/MatPizzolo/Pipex) | Bash pipe implementation |
 | [**🔢 Push_swap**](https://github.com/MatPizzolo/push_swap) | Sorting algorithm optimization |
-| [**🖥 Minishell**](https://github.com/MatPizzolo/minishell) | [cite_start]Bash-like shell in C [cite: 39] |
+| [**🖥 Minishell**](https://github.com/MatPizzolo/minishell) | [cite_start]Bash-like shell in C  |
 | [**🍴 Philosophers**](https://github.com/MatPizzolo/philosophers) | Threading & Mutexes |
 | [**🕹️ Cub3D**](https://github.com/MatPizzolo/cub3d) | 3D Raycaster in C |
 | [**🧱 C++ Modules**](https://github.com/MatPizzolo/cpp-modules-5-9) | OOP, Templates, & STL |
-| [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) | [cite_start]IRC Server in C++98 [cite: 37] |
+| [**🌐 Ft_IRC**](https://github.com/MatPizzolo/ft_irc) | [cite_start]IRC Server in C++98 |
 | [**💽 Inception**](https://github.com/MatPizzolo/Inception) | Multi-container Docker system |
-| [**🏓 Trascendence**](https://github.com/MatPizzolo/ft_transcendence) | [cite_start]WebApp with AI opponent [cite: 35] |
+| [**🏓 Trascendence**](https://github.com/MatPizzolo/ft_transcendence) | [cite_start]WebApp with AI opponent  |
 | [**📟 Ft_Ping**](https://github.com/MatPizzolo/ft_ping) | Ping command recreation |
 | [**⛓️ Tokenizer**](https://github.com/MatPizzolo/Tokenizer) | ERC-20 Token development |
 | [**📜 Ft_Ls**](https://github.com/MatPizzolo/ft_ls) | ls() command recreation |
