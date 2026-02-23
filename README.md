@@ -14,7 +14,7 @@
 - 🏗️ **Engineering Foundation:** I bring a rigorous approach to software architecture rooted in **Systems Programming (C/C++)** and **Full-Stack Development** within the FinTech and Crypto industries.
 - 🎓 **Education:** Currently specializing in Machine Learning at **AnyoneAI**, with a solid foundation from **42 Madrid** and **UADE**.
 - 🏄‍♂️ **Outside of Code:** Intermediate rock drummer and surfer.
-- My Resume: [Resume](https://drive.google.com/file/d/1XAlsKB88-UvtX-eHDdb5noE7HxSTtQMt/view?usp=sharing)
+- My Resume: [Resume](https://docs.google.com/document/d/1BQan3iunXthCLceiRWkLKzzh42Nb4q0TndGyF_pXBww/edit?usp=sharing)
 
 ## 🛠 **Technical Stack**
 
