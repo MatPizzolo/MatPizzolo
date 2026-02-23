@@ -35,31 +35,15 @@
 - **The Core:** Used **Apache Airflow** to orchestrate an ETL pipeline processing e-commerce data into a **SQLite** database.
 - **Engineering:** Provides a containerized **Jupyter** environment for interactive data science.
 
-### 💳 Home Credit Default Risk Prediction
+### 💳 [Home Credit Default Risk Prediction](https://github.com/MatPizzolo/Sprint2_AnyoneAi)
 *Financial risk assessment based on the Home Credit Group Kaggle competition.*
 - **The Core:** Developed a complete pipeline to preprocess data, tune model hyperparameters, and train models to predict credit default risk.
 - **Impact:** Focused on handling financial datasets to predict repayment ability for leading institutions.
 
-### 🥁 Automatic Drum Transcriber
+### 🥁 [Automatic Drum Transcriber](https://github.com/MatPizzolo/Automatic-Drum-Transcription)
 *Signal processing and ML for musical notation.*
 - **The Core:** Converting percussive audio signals into digital drum tabs using onset detection and pattern recognition.
 
-### 📉 Crypto "Flash Crash" & Anomaly Detection
-*Real-time monitoring and sentiment analysis.*
-- **The Core:** An ELT pipeline analyzing correlations between social media sentiment and market anomalies.
-
-## 🏛️ **Professional Experience & Systems Engineering**
-
-### **Full-Stack Developer | Chipz**
-- **Architected** and deployed high-performance web applications using **Next.js and TypeScript**.
-- **Containerized** applications with **Docker** for scalable cloud infrastructure.
-
-### **Systems Programming | 42 Madrid**
-- **Trascendence:** SPA with **Django** and WebSockets featuring an AI opponent.
-- **Irc:** Built an **IRC server** in **C++98** focusing on socket interactions.
-- **MiniShell:** Developed a **Bash-like shell** in **C** replicating core terminal functionalities.
-
----
 
 ## 🏫 **The 42 Madrid Journey**
 *Lower-level systems engineering and performance optimization.*
