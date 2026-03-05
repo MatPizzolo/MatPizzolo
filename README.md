@@ -39,6 +39,8 @@ sprint 3
 ## 🏫 **Anyone AI Sprints**
 *Machine Learning*
 
+<details>
+<summary><b>View all 42 Projects (C/C++)</b></summary>
 ### 🏗️ [E-Commerce Data Engineering Environment](https://github.com/MatPizzolo/Sprint1_AnyoneAi)
 *A complete Data Engineering environment for scalable AI.*
 - **The Core:** Used **Apache Airflow** to orchestrate an ETL pipeline processing e-commerce data into a **SQLite** database.
@@ -48,6 +50,9 @@ sprint 3
 *Financial risk assessment based on the Home Credit Group Kaggle competition.*
 - **The Core:** Developed a complete pipeline to preprocess data, tune model hyperparameters, and train models to predict credit default risk.
 - **Impact:** Focused on handling financial datasets to predict repayment ability for leading institutions.
+
+</details>
+
 
 ## 🏫 **The 42 Madrid Journey**
 *Lower-level systems engineering and performance optimization.*
