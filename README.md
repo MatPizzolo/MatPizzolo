@@ -30,6 +30,15 @@
 
 ## 🚀 **Featured Machine Learning Projects (AnyoneAI)**
 
+sprint 3
+
+### 🥁 [Automatic Drum Transcriber](https://github.com/MatPizzolo/Automatic-Drum-Transcription)
+*Signal processing and ML for musical notation.*
+- **The Core:** Converting percussive audio signals into digital drum tabs using onset detection and pattern recognition.
+
+## 🏫 **Anyone AI Sprints**
+*Machine Learning*
+
 ### 🏗️ [E-Commerce Data Engineering Environment](https://github.com/MatPizzolo/Sprint1_AnyoneAi)
 *A complete Data Engineering environment for scalable AI.*
 - **The Core:** Used **Apache Airflow** to orchestrate an ETL pipeline processing e-commerce data into a **SQLite** database.
@@ -39,11 +48,6 @@
 *Financial risk assessment based on the Home Credit Group Kaggle competition.*
 - **The Core:** Developed a complete pipeline to preprocess data, tune model hyperparameters, and train models to predict credit default risk.
 - **Impact:** Focused on handling financial datasets to predict repayment ability for leading institutions.
-
-### 🥁 [Automatic Drum Transcriber](https://github.com/MatPizzolo/Automatic-Drum-Transcription)
-*Signal processing and ML for musical notation.*
-- **The Core:** Converting percussive audio signals into digital drum tabs using onset detection and pattern recognition.
-
 
 ## 🏫 **The 42 Madrid Journey**
 *Lower-level systems engineering and performance optimization.*
