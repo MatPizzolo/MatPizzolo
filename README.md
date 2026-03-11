@@ -10,46 +10,101 @@
 </p>
 
 ## 📖 **About Me**
-- 🤖 **ML Focus:** I specialize in bridging the gap between model development and production-grade deployment.
-- 🏗️ **Engineering Foundation:** I bring a rigorous approach to software architecture rooted in **Systems Programming (C/C++)** and **Full-Stack Development** within the FinTech and Crypto industries.
-- 🎓 **Education:** Currently specializing in Machine Learning at **AnyoneAI**, with a solid foundation from **42 Madrid** and **UADE**.
-- 🏄‍♂️ **Outside of Code:** Intermediate rock drummer and surfer.
-- My Resume: [Resume](https://docs.google.com/document/d/1BQan3iunXthCLceiRWkLKzzh42Nb4q0TndGyF_pXBww/edit?usp=sharing)
+- 🤖 **MLOps & Infrastructure:**
+  I specialize in bridging the gap between local model experimentation and resilient, production-grade deployments, whether in the cloud or at the edge.
+  
+- 🏗️ **Engineering Foundation:**
+	My approach to architecture is rooted in **Systems Programming (C/C++)** from **42 Madrid** and extensive **Full-Stack Development** experience within the FinTech and Crypto industries.
+
+- 🚀 **Builder at Heart:**
+	Beyond corporate roles, I actively design self-hosted open-source platforms and architect event-driven pipelines to solve complex, real-world physical problems.
+
+- 🏄‍♂️ **Outside of Code:**
+	Intermediate rock drummer and surfer.
+
+- 📄 **My Resume:** [View Resume](https://docs.google.com/document/d/1BQan3iunXthCLceiRWkLKzzh42Nb4q0TndGyF_pXBww/edit?usp=sharing)
+
+---
 
 ## 🛠 **Technical Stack**
 
-### **Machine Learning & MLOps**
-- **Core:** Python, SQL, PyTorch, Scikit-learn, Pandas.
-- **Orchestration:** Apache Airflow (DAGs), ETL/ELT Pipelines.
-- **Infrastructure:** Docker, Linux/Bash, Git/GitHub, REST APIs.
+### **Machine Learning & Data Science**
+- **Core Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face.
+- **Data Engineering:** Pandas, Matplotlib, Seaborn.
+- **Domain-Specific:** YOLOv8 / ONNX (Computer Vision), Demucs, Librosa, madmom (Audio/Signal Processing).
 
-### **Full-Stack Engineering**
-- **Languages:** C, C++, TypeScript, JavaScript.
-- **Front-End:** Next.js, React, Tailwind CSS, Material UI.
-- **Back-End:** Node.js, Django, PostgreSQL, MongoDB.
+### **MLOps, Orchestration & Observability**
+- **Pipelines & Queues:** Apache Airflow (DAGs), Celery, Redis.
+- **Infrastructure & CI/CD:** Docker, Docker Compose, GitHub Actions, Linux/Bash.
+- **Observability:** OpenTelemetry, Prometheus, structlog.
 
-## 🚀 **Featured Machine Learning Projects (AnyoneAI)**
+### **Backend & Distributed Systems**
+- **Languages:** Python, C, C++, TypeScript, JavaScript.
+- **APIs & Frameworks:** FastAPI, Node.js, Django.
+- **Databases:** PostgreSQL, TimescaleDB, MongoDB, SQLite.
 
-sprint 3
+### **Front-End & Client Interfaces**
+- **Core:** Next.js, React 19, Tailwind CSS, Material UI.
+- **ML Interfaces:** Streamlit.
+
+
+## 🚀 **Featured Machine Learning Projects**
 
 ### 🥁 [Automatic Drum Transcriber](https://github.com/MatPizzolo/Automatic-Drum-Transcription)
 *Signal processing and ML for musical notation.*
 - **The Core:** Converting percussive audio signals into digital drum tabs using onset detection and pattern recognition.
+- **Machine Learning:** Orchestrated a multi-stage pipeline using **Demucs** for source separation, a **Keras CNN** for hit classification, and **madmom/librosa** for BPM detection, quantizing the output with **music21**.
+- **Engineering:** Built a decoupled asynchronous architecture using **FastAPI** and **Celery**, isolating memory-intensive ML inference workers from I/O workers to prevent OOM failures, complete with atomic file writes and OpenTelemetry observability.
+- **Impact:** Automates the transcription process for complex percussive patterns, bridging the gap between raw audio and readable sheet music.
+- **Tech Stack:** Python, FastAPI, Next.js, Celery, Redis, PostgreSQL, Keras, Demucs, Librosa, Docker, OpenTelemetry.
 
-## 🏫 **Anyone AI Sprints**
-*Machine Learning*
+### 🌊 [Swell-Drift](https://github.com/MatPizzolo/swell-drift) *(Work in Progress)*
+*Edge-based computer vision and MLOps pipeline for localized coastal intelligence.*
+- **The Core:** Calculating forecast drift by orchestrating a continuous feedback loop between global wave APIs and live beach webcams.
+- **Machine Learning:** Running lightweight object detection models (YOLOv8) at the edge to classify real-time coastal conditions and wave textures.
+- **Engineering:** Built an autonomous, event-driven architecture to ingest streaming data and compute localized weather deviations.
+- **Impact:** Acts as a headless intelligence system that corrects global weather model biases using real-time edge inference, triggering custom alerts.
+- **Tech Stack:** Python, ONNX / YOLOv8 (Edge CV), Docker, GitHub Actions (CI/CD), PostgreSQL / TimescaleDB.
+
+---
+
+## 🏫 **Anyone AI Sprints: Machine Learning Academy**
+*Foundational Data Engineering and Machine Learning pipelines.*
 
 <details>
-<summary><b>View all 42 Projects (C/C++)</b></summary>
-### 🏗️ [E-Commerce Data Engineering Environment](https://github.com/MatPizzolo/Sprint1_AnyoneAi)
-*A complete Data Engineering environment for scalable AI.*
-- **The Core:** Used **Apache Airflow** to orchestrate an ETL pipeline processing e-commerce data into a **SQLite** database.
-- **Engineering:** Provides a containerized **Jupyter** environment for interactive data science.
+<summary><b>View Anyone AI Sprints</b></summary>
+<br>
+
+### 🛒 [Best Buy Product Classification](https://github.com/MatPizzolo/Sprint4_AnyoneAi)
+*A multimodal machine learning system for e-commerce product categorization.*
+- **The Core:** Developed a multimodal classification system that intelligently combines both product images and text descriptions to accurately categorize Best Buy inventory.
+- **Machine Learning:** Leveraged transfer learning to extract complex embeddings using pre-trained CNNs (ResNet50) and transformers (ConvNextV2, MiniLM), fusing features to train high-performing classifiers.
+- **Engineering:** Structured a modular, containerized pipeline enforcing robust code quality and test-driven reliability.
+- **Tech Stack:** Python, TensorFlow, Hugging Face, Docker, Pytest, Black.
+
+### 🖼️ [FastAPI ML App - Image Classification](https://github.com/MatPizzolo/Sprint3_AnyoneAi)
+*A microservices-based image classification system.*
+- **The Core:** Built a robust, containerized microservices architecture for REST APIs and asynchronous message queuing between services.
+- **Machine Learning:** Integrated a pre-trained CNN model capable of identifying over 1000 categories, featuring a seamless front-end for user interaction.
+- **Engineering:** Managed user and feedback data with relational databases, orchestrated the environment, and ensured system reliability under load.
+- **Tech Stack:** Python, FastAPI, Redis, TensorFlow, Streamlit, PostgreSQL, Docker Compose, Locust, Pytest.
 
 ### 💳 [Home Credit Default Risk Prediction](https://github.com/MatPizzolo/Sprint2_AnyoneAi)
 *Financial risk assessment based on the Home Credit Group Kaggle competition.*
-- **The Core:** Developed a complete pipeline to preprocess data, tune model hyperparameters, and train models to predict credit default risk.
-- **Impact:** Focused on handling financial datasets to predict repayment ability for leading institutions.
+- **The Core:** Developed an end-to-end pipeline to assess financial risk and predict loan repayment ability for leading institutions.
+- **Machine Learning:** Engineered features and trained binary classification models using **Scikit-learn** to accurately predict credit default risk, optimizing for ROC-AUC metrics.
+- **Engineering:** Built robust data preprocessing pipelines using **Pandas** to clean, handle missing values, encode categorical variables, and transform large-scale tabular data.
+- **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter, Pytest.
+  
+### 🏗️ [E-Commerce Data Engineering Environment](https://github.com/MatPizzolo/Sprint1_AnyoneAi)
+*A complete Data Engineering environment for scalable AI.*
+- **The Core:** Designed and implemented a scalable data environment to support interactive data science and machine learning workflows.
+- **Data Engineering:** Orchestrated an automated ETL pipeline to process raw e-commerce data and load it into a structured relational database.
+- **MLOps:** Provided a reliable, containerized workspace tailored for model experimentation and streamlined development.
+- **Tech Stack:** Python, Apache Airflow, SQLite, Docker, Jupyter.
+
+</details>
+
 
 </details>
 
