@@ -20,7 +20,7 @@
 	Beyond corporate roles, I actively design self-hosted open-source platforms and architect event-driven pipelines to solve complex, real-world physical problems.
 
 - 🏄‍♂️ **Outside of Code:**
-	Intermediate rock drummer and surfer.
+	Intermediate rock/jazz drummer and surfer.
 
 - 📄 **My Resume:** [View Resume](https://docs.google.com/document/d/1BQan3iunXthCLceiRWkLKzzh42Nb4q0TndGyF_pXBww/edit?usp=sharing)
 
